@@ -1,8 +1,8 @@
 {
-  "name": "@varlet/icons-library-starter",
-  "version": "0.0.9",
+  "name": "s-icons",
+  "version": "1.0.0",
   "type": "module",
-  "author": "haoziqaq <357229046@qq.com>",
+  "author": "snowinlu",
   "description": "A icons library starter",
   "keywords": [
     "svg",
